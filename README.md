@@ -4,13 +4,13 @@ simple script for testing web services. Adapted after [healthchecker](https://gi
 
 ## Usage
 
-`./healthchecker:
-  -ip string
-    	ip address to check (default "127.0.0.1")
-  -path string
-    	path to check (default "/health")
-  -port string
-    	port to check (default "80")`
+    ./healthchecker:
+      -ip string
+        	ip address to check (default "127.0.0.1")
+      -path string
+        	path to check (default "/health")
+      -port string
+        	port to check (default "80")
 
 ## Example
 
